@@ -1,7 +1,8 @@
 #Python 3
 #Created By: Geoffrey G. Lord Feb 3 2020
 #Daily list MK.2
-#LIG#LIG#LIG
+#LIG
+#Last Update: April 27 2020
 import time
 import sys
 import datetime
